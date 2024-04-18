@@ -18,7 +18,6 @@ Feel free to reach out if you have any questions or job opportunities.
 - Android
 - iOS
 
-## Logos
 
 <div style="display:flex; justify-content: space-around;">
   <img src="https://tech.pelmorex.com/wp-content/uploads/2020/10/flutter.png" alt="Flutter Logo" width="100">
