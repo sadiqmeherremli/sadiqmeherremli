@@ -28,7 +28,10 @@ Feel free to reach out if you have any questions or job opportunities.
 
 ## Badges
 
+
+
 [![GitHub followers](https://img.shields.io/github/followers/sadigmh?style=social)](https://github.com/sadiqmeherremli)
-[![Instagram Follow](https://img.shields.io/instagram/followers/sadigmh?style=social)](https://instagram.com/meherremle)
 [![Twitter Follow](https://img.shields.io/twitter/follow/sadigmh?style=social)](https://twitter.com/sadiqmeherremli)
+
+Instagram: [sadiqmeherremli](https://instagram.com/meherremle)
 
