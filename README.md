@@ -6,9 +6,9 @@ I'm a Flutter developer and I work on various projects on this GitHub account. Y
 
 ## Contact
 
-Email: sadig.maharramli@gmail.com  
-LinkedIn: [Sadig Maharramli](linkedin-link)  
-Twitter: [@sadigmh](twitter-link)
+Email: sadiqmeherremli.dev@gmail.com  
+LinkedIn: [Sadig Maharramli](https://www.linkedin.com/in/sadiq-meherremli/)  
+Twitter: [@sadiqmeherremli](twitter-link)
 
 Feel free to reach out if you have any questions or job opportunities.
 
