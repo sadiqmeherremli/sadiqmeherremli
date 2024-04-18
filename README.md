@@ -20,7 +20,7 @@ Feel free to reach out if you have any questions or job opportunities.
 
 ## Logos
 
-![Flutter Logo](link-to-flutter-logo)
+![Flutter Logo](lhttps://storage.googleapis.com/cms-storage-bucket/6e19fee6b47b36ca613f.png)
 ![Android Logo](link-to-android-logo)
 ![iOS Logo](link-to-ios-logo)
 
