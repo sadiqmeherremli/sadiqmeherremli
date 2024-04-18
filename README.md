@@ -12,7 +12,7 @@ Twitter: [@sadiqmeherremli](twitter-link)
 
 Feel free to reach out if you have any questions or job opportunities.
 
-
+## Platforms
 - Flutter
 - Android
 - iOS
@@ -25,7 +25,7 @@ Feel free to reach out if you have any questions or job opportunities.
 </div>
 
 
-
+## Badges
 [![GitHub followers](https://img.shields.io/github/followers/sadigmh?style=social)](https://github.com/sadiqmeherremli)
 [![Twitter Follow](https://img.shields.io/twitter/follow/sadigmh?style=social)](https://twitter.com/sadiqmeherremli)
 
