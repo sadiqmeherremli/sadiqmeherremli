@@ -12,7 +12,6 @@ Twitter: [@sadiqmeherremli](twitter-link)
 
 Feel free to reach out if you have any questions or job opportunities.
 
-## Platforms
 
 - Flutter
 - Android
@@ -24,8 +23,6 @@ Feel free to reach out if you have any questions or job opportunities.
   <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--H40ocFOu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://res.cloudinary.com/nedy123/image/upload/v1560565889/Screenshot_2019-06-15_at_3.28.03_AM_hij9sw.png" alt="Android Logo" width="100">
   <img src="https://static.vecteezy.com/system/resources/thumbnails/021/496/368/small/ios-icon-logo-software-phone-apple-symbol-with-name-black-design-mobile-illustration-free-vector.jpg" alt="iOS Logo" width="100">
 </div>
-
-## Badges
 
 
 
