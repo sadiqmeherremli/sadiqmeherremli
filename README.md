@@ -21,7 +21,7 @@ Feel free to reach out if you have any questions or job opportunities.
 ## Logos
 
 ![Flutter Logo](lhttps://storage.googleapis.com/cms-storage-bucket/6e19fee6b47b36ca613f.png)
-![Android Logo](link-to-android-logo)
+![Android Logo](https://res.cloudinary.com/practicaldev/image/fetch/s--H40ocFOu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://res.cloudinary.com/nedy123/image/upload/v1560565889/Screenshot_2019-06-15_at_3.28.03_AM_hij9sw.png)
 ![iOS Logo](link-to-ios-logo)
 
 ## Badges
