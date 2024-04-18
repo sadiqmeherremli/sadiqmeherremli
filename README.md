@@ -11,6 +11,15 @@ LinkedIn: [Sadig Maharramli](https://www.linkedin.com/in/sadiq-meherremli/)
 Twitter: [@sadiqmeherremli](twitter-link)
 
 Feel free to reach out if you have any questions or job opportunities.
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=sadiqmeherremli&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=sadiqmeherremli&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sadiqmeherremli&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+ 
+---
+ 
+[![](https://visitcount.itsvg.in/api?id=sadiqmeherremlim&label=Profile%20Views&color=9&pretty=false)](https://visitcount.itsvg.in)
+
 
 ## Platforms
 - Flutter
