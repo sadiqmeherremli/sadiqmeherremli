@@ -5,6 +5,7 @@
 I'm a Flutter developer and I work on various projects on this GitHub account. You can browse through the repos on my profile and learn more about my projects.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sadiqmeherremli&label=Profile%20views&color=0e75b6&style=flat" alt="sadiqmeherremli" /> </p>
+
 ## Contact
 
 Email: sadiqmeherremli.dev@gmail.com  
@@ -18,8 +19,6 @@ Feel free to reach out if you have any questions or job opportunities.
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sadiqmeherremli&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
  
 ---
- 
-[![](https://visitcount.itsvg.in/api?id=sadiqmeherremlim&label=Profile%20Views&color=9&pretty=false)](https://visitcount.itsvg.in)
 
 
 ## Platforms
