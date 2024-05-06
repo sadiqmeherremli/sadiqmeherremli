@@ -22,7 +22,7 @@ Feel free to reach out if you have any questions or job opportunities.
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=nicat827&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=sadiqmeherremli&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
  
 ---
 
