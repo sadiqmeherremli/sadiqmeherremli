@@ -4,6 +4,7 @@
 
 I'm a Flutter developer and I work on various projects on this GitHub account. You can browse through the repos on my profile and learn more about my projects.
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sadiqmeherremli&label=Profile%20views&color=0e75b6&style=flat" alt="sadiqmeherremli" /> </p>
 ## Contact
 
 Email: sadiqmeherremli.dev@gmail.com  
@@ -39,4 +40,6 @@ Feel free to reach out if you have any questions or job opportunities.
 [![Twitter Follow](https://img.shields.io/twitter/follow/sadigmh?style=social)](https://twitter.com/sadiqmeherremli)
 
 Instagram: [sadiqmeherremli](https://instagram.com/meherremle)
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sadiqmeherremli" alt="sadiqmeherremli" /></a> </p>
 
